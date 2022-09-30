@@ -10,6 +10,6 @@ distintos dispositivos
 * [Porfolio web](https://midominio.es/)
 
 ## Ver ejemplo en vivo
-- [https://viteripro.github.io/Disenos-arreglos](https://viteripro.github.io/Disenos-arreglos)
+- [https://viteripro.github.io/Collage-fotos/](https://viteripro.github.io/Collage-fotos/)
 ## Instalación
 Este proyecto no necesita de instalación. Simmplemente abre la carpeta o haz click en el .html
